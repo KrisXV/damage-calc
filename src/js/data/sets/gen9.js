@@ -642,6 +642,8 @@ var SETDEX_SV = {
   },
   "Mew": {
     "UU Suicide Lead": {"ability":"Synchronize","item":"Red Card","nature":"Timid","teraType":"Ghost","ivs":{"at":0},"evs":{"hp":252,"df":96,"sp":160},"moves":["Stealth Rock","Spikes","Taunt","Misty Explosion"]},
+    "RU Spikes Setter": {"ability":"Synchronize","item":"Rocky Helmet","nature":"Bold","teraType":"Fighting","evs":{"hp":240,"df":252,"sp":16},"moves":["Spikes","Body Press","Psychic Noise","Volt Switch"]},
+    "RU Nasty Plot": {"ability":"Synchronize","item":"Leftovers","nature":"Timid","teraType":"Fairy","evs":{"hp":4,"sa":252,"sp":252},"moves":["Nasty Plot","Draining Kiss","Psyshock","Earth Power"]},
     "Doubles OU Support": {"ability":"Synchronize","item":"Covert Cloak","nature":"Timid","teraType":"Dark","ivs":{"at":0},"evs":{"hp":252,"sd":4,"sp":252},"moves":["Pollen Puff","Tailwind","Stealth Rock","Will-O-Wisp"]},
     "Monotype Nasty Plot": {"ability":"Synchronize","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Vacuum Wave","Flamethrower","Ice Beam"]},
     "National Dex UU Utility": {"ability":"Synchronize","item":"Heavy-Duty Boots","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":168,"sp":88},"moves":["Will-O-Wisp","Spikes","Knock Off","Soft-Boiled"]},
@@ -2381,8 +2383,8 @@ var SETDEX_SV = {
     "Ubers UU Choice Scarf": {"ability":"Shadow Tag","item":"Choice Scarf","nature":"Bold","teraType":"Fairy","ivs":{"at":0},"evs":{"hp":248,"df":252,"sd":8},"moves":["Trick","Calm Mind","Rest","Charm"]}
   },
   "Duosion": {
-    "NFE Double Dance": {"ability":"Magic Guard","item":"Eviolite","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Acid Armor","Calm Mind","Recover","Stored Power"]},
-    "NFE Defensive Pivot": {"ability":"Regenerator","item":"Eviolite","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Future Sight","Psychic","Thunder Wave","Recover"]}
+    "NFE Defensive Pivot": {"ability":"Regenerator","item":"Eviolite","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Future Sight","Psychic","Thunder Wave","Recover"]},
+    "NFE Double Dance": {"ability":"Magic Guard","item":"Eviolite","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Acid Armor","Calm Mind","Stored Power","Recover"]}
   },
   "Reuniclus": {
     "OU Stallbreaker": {"ability":"Magic Guard","item":"Life Orb","nature":"Modest","teraType":"Fighting","evs":{"hp":252,"sa":212,"sp":44},"moves":["Psychic Noise","Knock Off","Focus Blast","Recover"]},
