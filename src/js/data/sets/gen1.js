@@ -184,8 +184,8 @@ var SETDEX_RBY = {
   },
   "Poliwag": {
     "LC Sleeper": {"level":5,"moves":["Hypnosis","Amnesia","Surf","Psychic"]},
-    "ZU Amnesia Sweeper": {"moves":["Hypnosis","Amnesia","Hydro Pump","Psychic"]},
-    "PU Showdown Usage": {"moves":["Amnesia","Hypnosis","Surf","Psychic"]}
+    "PU Showdown Usage": {"moves":["Amnesia","Hypnosis","Surf","Psychic"]},
+    "ZU Showdown Usage": {"moves":["Amnesia","Hypnosis","Surf","Psychic"]}
   },
   "Poliwhirl": {
     "NU Amnesia": {"moves":["Hypnosis","Amnesia","Hydro Pump","Blizzard"]}
