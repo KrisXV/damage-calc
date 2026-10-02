@@ -95,7 +95,8 @@ var SETDEX_RBY = {
     "NU Mixed Attacker": {"moves":["Earthquake","Blizzard","Thunderbolt","Substitute"]},
     "PU Mixed Attacker": {"moves":["Earthquake","Blizzard","Thunderbolt","Substitute"]},
     "Tradebacks OU Lovely Kiss": {"moves":["Lovely Kiss","Blizzard","Thunderbolt","Earthquake"]},
-    "Tradebacks OU Amnesia": {"moves":["Amnesia","Blizzard","Thunderbolt","Earthquake"]}
+    "Tradebacks OU Amnesia": {"moves":["Amnesia","Blizzard","Thunderbolt","Earthquake"]},
+    "OU Showdown Usage": {"moves":["Earthquake","Blizzard","Thunderbolt","Surf"]}
   },
   "Clefairy": {
     "LC Mixed Attacker": {"level":5,"moves":["Body Slam","Blizzard","Thunderbolt","Thunder Wave"]}
@@ -338,7 +339,7 @@ var SETDEX_RBY = {
     "OU Swords Dance": {"moves":["Swords Dance","Hyper Beam","Body Slam","Crabhammer"]},
     "PU Swords Dance": {"moves":["Swords Dance","Body Slam","Hyper Beam","Crabhammer"]},
     "Tradebacks OU Swords Dance": {"moves":["Swords Dance","Hyper Beam","Body Slam","Crabhammer"]},
-    "NU Showdown Usage": {"moves":["Hyper Beam","Swords Dance","Body Slam","Crabhammer"]}
+    "NU Showdown Usage": {"moves":["Crabhammer","Body Slam","Hyper Beam","Swords Dance"]}
   },
   "Voltorb": {
     "LC Fast Attacker": {"level":5,"moves":["Thunderbolt","Thunder Wave","Take Down","Explosion"]}
@@ -494,7 +495,8 @@ var SETDEX_RBY = {
     "LC Physical Attacker": {"level":5,"moves":["Body Slam","Double-Edge","Quick Attack","Sand Attack"]}
   },
   "Vaporeon": {
-    "Tradebacks OU Growth": {"moves":["Growth","Surf","Acid Armor","Rest"]}
+    "Tradebacks OU Growth": {"moves":["Growth","Surf","Acid Armor","Rest"]},
+    "OU Showdown Usage": {"moves":["Rest","Surf","Ice Beam","Sand Attack"]}
   },
   "Jolteon": {
     "OU Offensive": {"moves":["Thunder Wave","Thunderbolt","Double Kick","Rest"]},
