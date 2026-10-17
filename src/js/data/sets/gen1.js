@@ -438,6 +438,7 @@ var SETDEX_RBY = {
   },
   "Mr. Mime": {
     "NU Support": {"moves":["Thunder Wave","Psychic","Thunderbolt","Seismic Toss"]},
+    "NU Standard": {"moves":["Psychic","Thunderbolt","Seismic Toss","Thunder Wave"]},
     "Tradebacks OU Hypnosis": {"moves":["Hypnosis","Thunderbolt","Psychic","Seismic Toss"]}
   },
   "Scyther": {

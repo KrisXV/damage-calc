@@ -176,7 +176,8 @@ var SETDEX_XY = {
   "Torkoal": {
     "PU Offensive Rapid Spin": {"ability":"Shell Armor","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shell Smash","Fire Blast","Earth Power","Rapid Spin"]},
     "PU Defensive": {"ability":"Shell Armor","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":232,"sd":28},"moves":["Stealth Rock","Lava Plume","Toxic","Rapid Spin"]},
-    "Monotype Defensive Wall": {"ability":"Shell Armor","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Rapid Spin","Yawn","Lava Plume"]}
+    "Monotype Defensive Wall": {"ability":"Shell Armor","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Rapid Spin","Yawn","Lava Plume"]},
+    "NU Showdown Usage": {"ability":"White Smoke","item":"Rocky Helmet","nature":"Relaxed","evs":{"hp":252,"df":252,"sd":4},"moves":["Rapid Spin","Stealth Rock","Lava Plume","Will-O-Wisp"]}
   },
   "Lunatone": {
     "PU Rock Polish": {"ability":"Levitate","item":"Life Orb","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Rock Polish","Psychic","Ancient Power","Earth Power"]},
@@ -466,7 +467,8 @@ var SETDEX_XY = {
   },
   "Vibrava": {
     "PU Defog": {"ability":"Levitate","item":"Eviolite","nature":"Impish","evs":{"hp":248,"df":252,"sd":8},"moves":["Defog","U-turn","Roost","Earthquake"]},
-    "ZU Defog": {"ability":"Levitate","item":"Eviolite","nature":"Impish","evs":{"hp":252,"df":240,"sp":16},"moves":["Defog","Roost","Earthquake","U-turn"]}
+    "ZU Defog": {"ability":"Levitate","item":"Eviolite","nature":"Impish","evs":{"hp":252,"df":240,"sp":16},"moves":["Defog","Roost","Earthquake","U-turn"]},
+    "NU Showdown Usage": {"ability":"Levitate","item":"Eviolite","nature":"Impish","evs":{"hp":248,"df":252,"sd":8},"moves":["U-turn","Defog","Roost","Earthquake"]}
   },
   "Flygon": {
     "Ubers Defog": {"ability":"Levitate","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Defog","Roost","Toxic","Earth Power"]},
@@ -766,7 +768,8 @@ var SETDEX_XY = {
   "Wartortle": {
     "PU Rapid Spin": {"ability":"Torrent","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Rapid Spin","Scald","Foresight","Toxic"]},
     "ZU Physically Defensive": {"ability":"Torrent","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Rapid Spin","Scald","Toxic","Foresight"]},
-    "ZU Specially Defensive": {"ability":"Torrent","item":"Eviolite","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Rapid Spin","Scald","Toxic","Foresight"]}
+    "ZU Specially Defensive": {"ability":"Torrent","item":"Eviolite","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Rapid Spin","Scald","Toxic","Foresight"]},
+    "NU Showdown Usage": {"ability":"Torrent","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Rapid Spin","Toxic","Scald","Ice Beam"]}
   },
   "Blastoise": {
     "UU Offensive Spinner": {"ability":"Rain Dish","item":"Blastoisinite","nature":"Modest","evs":{"hp":184,"sa":252,"sp":72},"moves":["Rapid Spin","Scald","Dark Pulse","Ice Beam"]},
@@ -1065,7 +1068,8 @@ var SETDEX_XY = {
     "LC Defensive": {"level":5,"ability":"Flame Body","item":"Eviolite","nature":"Jolly","evs":{"at":76,"df":156,"sd":76,"sp":196},"moves":["Will-O-Wisp","Flare Blitz","Flame Charge","Morning Sun"]}
   },
   "Rapidash": {
-    "PU Physical Attacker": {"ability":"Flash Fire","item":"Charcoal","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Flare Blitz","Wild Charge","Will-O-Wisp","Morning Sun"]}
+    "PU Physical Attacker": {"ability":"Flash Fire","item":"Charcoal","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Flare Blitz","Wild Charge","Will-O-Wisp","Morning Sun"]},
+    "NU Showdown Usage": {"ability":"Flash Fire","item":"Expert Belt","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","Drill Run","Wild Charge","Will-O-Wisp"]}
   },
   "Slowpoke": {
     "LC Tank": {"level":5,"ability":"Regenerator","item":"Eviolite","nature":"Bold","evs":{"hp":116,"df":156,"sa":116,"sd":116},"moves":["Scald","Slack Off","Thunder Wave","Psychic"]},
@@ -2623,7 +2627,8 @@ var SETDEX_XY = {
   },
   "Walrein": {
     "PU Specially Defensive": {"ability":"Thick Fat","item":"Leftovers","nature":"Calm","evs":{"hp":248,"df":8,"sd":252},"moves":["Roar","Toxic","Surf","Protect"]},
-    "ZU Substitute": {"ability":"Thick Fat","item":"Leftovers","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Substitute","Toxic","Ice Beam","Surf"]}
+    "ZU Substitute": {"ability":"Thick Fat","item":"Leftovers","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Substitute","Toxic","Ice Beam","Surf"]},
+    "NU Showdown Usage": {"ability":"Thick Fat","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Surf","Toxic","Ice Beam","Roar"]}
   },
   "Clamperl": {
     "LC Shell Smash": {"level":5,"ability":"Shell Armor","item":"Deep Sea Tooth","nature":"Timid","evs":{"sa":248,"sd":76,"sp":184},"moves":["Shell Smash","Surf","Ice Beam","Substitute"]}
@@ -2679,7 +2684,8 @@ var SETDEX_XY = {
     "Battle Spot Triples Showdown Usage": {"level":50,"ability":"Aerilate","item":"Salamencite","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Dragon Pulse","Flamethrower","Protect","Hyper Voice"]}
   },
   "Metang": {
-    "PU Offensive Stealth Rock": {"ability":"Clear Body","item":"Eviolite","nature":"Adamant","evs":{"hp":252,"at":252,"df":4},"moves":["Stealth Rock","Meteor Mash","Earthquake","Bullet Punch"]}
+    "PU Offensive Stealth Rock": {"ability":"Clear Body","item":"Eviolite","nature":"Adamant","evs":{"hp":252,"at":252,"df":4},"moves":["Stealth Rock","Meteor Mash","Earthquake","Bullet Punch"]},
+    "NU Showdown Usage": {"ability":"Clear Body","item":"Eviolite","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Meteor Mash","Thunder Punch","Stealth Rock","Toxic"]}
   },
   "Metagross": {
     "OU Offensive": {"ability":"Clear Body","item":"Metagrossite","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Zen Headbutt","Meteor Mash","Hammer Arm","Ice Punch"]},
