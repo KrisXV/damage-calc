@@ -496,8 +496,7 @@ var SETDEX_RBY = {
     "LC Physical Attacker": {"level":5,"moves":["Body Slam","Double-Edge","Quick Attack","Sand Attack"]}
   },
   "Vaporeon": {
-    "Tradebacks OU Growth": {"moves":["Growth","Surf","Acid Armor","Rest"]},
-    "OU Showdown Usage": {"moves":["Rest","Surf","Ice Beam","Sand Attack"]}
+    "Tradebacks OU Growth": {"moves":["Growth","Surf","Acid Armor","Rest"]}
   },
   "Jolteon": {
     "OU Offensive": {"moves":["Thunder Wave","Thunderbolt","Double Kick","Rest"]},
